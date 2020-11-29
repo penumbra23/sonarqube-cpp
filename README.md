@@ -5,6 +5,8 @@ Contains Dockerfile for [Sonarqube Community Edition](https://hub.docker.com/_/s
 
 ## Usage
 
+Use images from [Docker Hub](https://hub.docker.com/r/penumbra23/sonarqube-cpp) or build it yourself.
+
 ```
 docker build -t sonarqube-cpp .
 ```
